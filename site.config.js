@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Adan',
-  domain: 'transitivebullsh.it',
+  name: 'check for you',
+  domain: 'https://six-sink-311.notion.site/Check-for-Self-21c8f93035e448e5970e2db3f524fcca',
   author: 'Adan chinstmac',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  // description: 'Example site description',
+  // socialImageTitle: 'Transitive Bullshit',
+  // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   // twitter: '',
