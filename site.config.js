@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'check for you',
-  domain: 'https://six-sink-311.notion.site/Check-for-Self-21c8f93035e448e5970e2db3f524fcca',
+  domain: 'https://www.notion.so/Check-for-Self-21c8f93035e448e5970e2db3f524fcca',
   author: 'Adan chinstmac',
 
   // open graph metadata (optional)
