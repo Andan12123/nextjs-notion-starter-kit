@@ -93,9 +93,11 @@
   color: #2795e9;
 }
 
+/*
 .github:hover {
   color: #c9510c;
 }
+*/
 
 .linkedin:hover {
   color: #0077b5;
@@ -182,9 +184,11 @@
   }
 }
 
+/*
 .githubCorner:hover .octoArm {
   animation: octocat-wave 560ms ease-in-out;
 }
+*/
 
 @keyframes octocat-wave {
   0%,
